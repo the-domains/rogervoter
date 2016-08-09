@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Roger Voter | Enterprising]]></title>
         <description><![CDATA[Roger Voter | Enterprising]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rogervoter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 13:42:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 13:59:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rogervoter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Enterprising]]></title>
+            <description><![CDATA[<article><h1>Enterprising</h1><p>Roger Taliento Voter grew up experiencing the successful growth of his parent’s business, Gizmos Art. He has since used these skills plus experience from working with NASA and the congressional office to create a few ventures of his own. While studying at the Johns Hopkins University Carey Business School, Roger co-founded the International Medical Aid, a non-profit that travels to developing countries improving access to medicine. He personally overlooked the implementation of mobile healthcare clinics in South America, East Africa and the Caribbean. Before his international experience and after graduating from Carroll Community College, Roger co-founded the retro video gaming store in the TownMall of Westminster. Save Point now has contracts across the country for arcade machine and video game rentals at conventions.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7c67133-bd10-44eb-999a-8a459a55a1e4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rogervoter/enterprising/index.html</link>
+            <guid isPermaLink="false">779749cd-9282-4974-9db9-d8d5eeb6aef5</guid>
+            <pubDate>Tue, 09 Aug 2016 13:59:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Roger Voter]]></title>
             <description><![CDATA[<article><h1>Roger Voter</h1><p>Roger's timelaspe of Centralia's underground fire damage.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/142e860e-9f75-43a4-877b-202332fa43a8.jpg"></article>]]></description>
-            <link>undefinedroger-voter/index.html</link>
+            <link>https://thegrid.ai/rogervoter/roger-voter/index.html</link>
             <guid isPermaLink="false">2df41ff8-4a03-4cf5-9ff1-1448534f3b07</guid>
             <pubDate>Tue, 09 Aug 2016 13:42:13 GMT</pubDate>
         </item>
