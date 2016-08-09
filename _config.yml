@@ -1,7 +1,7 @@
 name: Roger Voter
 favicon: null
-layout_spectrum: 0.8490692619234324
-typography_spectrum: 0.7956867807079107
+layout_spectrum: 0.18732
+typography_spectrum: 0.84915
 collections:
   - index:
       path: /
@@ -35,7 +35,7 @@ color:
     - '#a96d5d'
     - '#bdaaa4'
   brandStrength: 0.0625
-  lightness: 0.25
-  saturation: 0.25
-  rhythmicContrast: 0.5
+  lightness: 0.6875
+  saturation: 0.0625
+  rhythmicContrast: 0
 purpose: []
